@@ -32,4 +32,4 @@ For `param1 = 1` and `param2 = 2`, the output should be
     The sum of the two inputs.
 
 ### Testing
-Run **verify.rb** to check the functionality of **add.rb**.
+Run [**verify.rb**](./verify.rb) :fire: to check the functionality of [**add.rb**](./add.rb):fire:.
