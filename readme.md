@@ -12,7 +12,7 @@ You can find here my solutions of coding from [CodeSignal](https://app.codesigna
 | Language | Language | Solutions | Count |
 |:---:|---|---|:---:|
 | ![](https://codefightsuserpics.s3.amazonaws.com/uploads/1519782029994/Visual%20Basic.svg) | Visual Basic | ./vb  |  |
-| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | Ruby | *Look at [./ruby](./ruby/readme.md) !* |  |
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | Ruby | *Look at [./ruby](./ruby/readme.md)* :bangbang: |  |
 | ![](https://app.codesignal.com/user-icons/languages/js.svg) | Javascript | ./js  |  |
 | ![](https://app.codesignal.com/user-icons/languages/cpp.svg) | C++ | ./cpp  |  |
 
