@@ -1,5 +1,8 @@
 #add
 
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
+
 Write a function that returns the sum of two numbers.
 
 ###Example

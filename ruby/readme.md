@@ -1,4 +1,7 @@
-#Ruby Solutions ![](https://app.codesignal.com/user-icons/languages/rb.svg)
+#Ruby Solutions
+
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 My progress:
 

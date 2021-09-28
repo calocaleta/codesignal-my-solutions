@@ -1,10 +1,13 @@
-#Arcade  ![](https://app.codesignal.com/user-icons/languages/rb.svg)
+#Arcade
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---| 
 
 
 My progress:
 
 | :heavy_check_mark: = Solved | :bulb: = I have the idea, but it's didn't solve it | :hourglass: = In progress |
 |:---:|:---:|:---:|
+
 ###Intro
 
 | # | Name | Description | Code | Lines | Status |
