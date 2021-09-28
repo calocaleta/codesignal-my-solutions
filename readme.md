@@ -9,10 +9,10 @@ You can find here my solutions of coding from [CodeSignal](https://app.codesigna
 | ![](https://app.codesignal.com/badges/user-level/34.svg) | **[CaloCaleta](https://app.codesignal.com/profile/calocaleta)** | Carlos A. Garcia Gonzales |
 
 ### Languages
-| Language | Language | Solutions | Count |
+| Language | Language | Solutions :octocat: | Count |
 |:---:|---|---|:---:|
 | ![](https://codefightsuserpics.s3.amazonaws.com/uploads/1519782029994/Visual%20Basic.svg) | Visual Basic | ./vb  |  |
-| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | Ruby | [Look at **./ruby**](./ruby/readme.md) :fire: |  |
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | Ruby | [Look at **./ruby**](./ruby/readme.md) |  |
 | ![](https://app.codesignal.com/user-icons/languages/js.svg) | Javascript | ./js  |  |
 | ![](https://app.codesignal.com/user-icons/languages/cpp.svg) | C++ | ./cpp  |  |
 

@@ -12,9 +12,9 @@ My progress:
 
 | # | Name | Description | Code :octocat: | Lines | Status |
 |:---:|---|---|---|:---:|:---:|
-| 1 | Add | Write a function that returns the sum of two numbers. | [add.rb](./Intro-01-add) | 1 :tada: | :heavy_check_mark: |
+| 1 | Add | Write a function that returns the sum of two numbers. | [add.rb](./Intro-01-add) | **1** | :white_check_mark: |
 | 2 | Century From Year | Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc. | [centuryFromYear.rb](./Intro-02-centuryFromYear) | 3 | :heavy_check_mark: |
-| 3 | Check Palindrome | Given the string, check if it is a [palindrome](../../glossary/palindrome.md). | [checkPalindrome.rb](./Intro-03-checkPalindrome) | 1 :tada: | :heavy_check_mark: |
+| 3 | Check Palindrome | Given the string, check if it is a [palindrome](../../glossary/palindrome.md). | [checkPalindrome.rb](./Intro-03-checkPalindrome) | **1** | :white_check_mark: |
 | 4 | XXXXXX | XXXXXXX. | [centuryFromYear.rb](./XXXXXXXXXXXXX) | XXXX | :heavy_check_mark: |
 | 5 | XXXXXX | XXXXXXX. | [centuryFromYear.rb](./XXXXXXXXXXXXX) | XXXX | :heavy_check_mark: |
 | 6 | XXXXXX | XXXXXXX. | [centuryFromYear.rb](./XXXXXXXXXXXXX) | XXXX | :heavy_check_mark: |
