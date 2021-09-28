@@ -1,7 +1,8 @@
-load '../../test.rb'
-load 'minesweeper.rb'
+methodname = 'minesweeper'
 
-t = Test.new('minesweeper')
+load '../../test.rb'
+load methodname + '.rb'
+t = Test.new(methodname)
 
 t.test([[[true,false,false],[false,true,false],[false,false,false]]],[[1,2,1],[2,1,1],[1,1,1]])
 t.test([[[false,false,false],[false,false,false]]],[[0,0,0],[0,0,0]])

@@ -1,7 +1,8 @@
-load '../../test.rb'
-load 'add.rb'
+methodname = 'add'
 
-t = Test.new('add')
+load '../../test.rb'
+load methodname + '.rb'
+t = Test.new(methodname)
 
 t.test([1,3],4)
 t.test([0,1000],1000)

@@ -1,7 +1,8 @@
-load '../../test.rb'
-load 'centuryFromYear.rb'
+methodname = 'centuryFromYear'
 
-t = Test.new('centuryFromYear')
+load '../../test.rb'
+load methodname + '.rb'
+t = Test.new(methodname)
 
 t.test([1905],20)
 t.test([1700],17)

@@ -1,4 +1,4 @@
-# centuryFromYear
+# Century From Year
 
 | ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
 |---|---|
@@ -30,4 +30,4 @@ Given a year, return the century it is in. The first century spans from the year
   The number of the century the year is in.
 
 ### Testing
-Run [**verify.rb**](./verify.rb) :fire: to check the functionality of [**centuryFromYear.rb**](./centuryFromYear.rb):fire:.
+Run [**verify.rb**](./verify.rb):zap: to check the functionality of [**centuryFromYear.rb**](./centuryFromYear.rb):octocat:.
