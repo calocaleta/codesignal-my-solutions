@@ -1,8 +1,7 @@
-methodname = 'centuryFromYear'
+load (includefile = 'centuryFromYear.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([1905],20)
 t.test([1700],17)

@@ -1,8 +1,7 @@
-methodname = 'minesweeper'
+load (includefile = 'minesweeper.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([[[true,false,false],[false,true,false],[false,false,false]]],[[1,2,1],[2,1,1],[1,1,1]])
 t.test([[[false,false,false],[false,false,false]]],[[0,0,0],[0,0,0]])

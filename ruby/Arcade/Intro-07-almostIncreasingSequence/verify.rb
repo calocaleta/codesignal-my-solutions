@@ -1,8 +1,7 @@
-methodname = 'almostIncreasingSequence'
+load (includefile = 'almostIncreasingSequence.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([[1, 3, 2, 1]],false)
 t.test([[1, 3, 2]],true)

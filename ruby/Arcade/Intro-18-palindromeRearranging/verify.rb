@@ -1,0 +1,15 @@
+load (includefile = 'palindromeRearranging.rb')
+load ('../../test.rb')
+
+t = Test.new(includefile)
+
+t.test(["aabb"],true)
+t.test(["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabc"],false)
+t.test(["abbcabb"],true)
+t.test(["zyyzzzzz"],true)
+t.test(["z"],true)
+t.test(["zaa"],true)
+t.test(["abca"],false)
+t.test(["abcad"],false)
+t.test(["aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbccccaaaaaaaaaaaaa"],false)
+t.test(["abdhuierf"],false)

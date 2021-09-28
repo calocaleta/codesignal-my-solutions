@@ -1,8 +1,7 @@
-methodname = 'add'
+load (includefile = 'add.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([1,3],4)
 t.test([0,1000],1000)

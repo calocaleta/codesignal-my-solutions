@@ -1,5 +1,4 @@
 def isIPv4Address(inputString)
-	puts inputString
 	arr = inputString.split('.')
 	return false if arr.size != 4
 	for i in (0...4)

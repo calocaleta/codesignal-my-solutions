@@ -1,8 +1,7 @@
-methodname = 'checkPalindrome'
+load (includefile = 'checkPalindrome.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t = Test.new('checkPalindrome')
 

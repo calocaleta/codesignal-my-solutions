@@ -1,8 +1,7 @@
-methodname = 'makeArrayConsecutive2'
+load (includefile = 'makeArrayConsecutive2.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([[6, 2, 3, 8]],3)
 t.test([[0, 3]],2)

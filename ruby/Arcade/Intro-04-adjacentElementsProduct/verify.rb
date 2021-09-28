@@ -1,8 +1,7 @@
-methodname = 'adjacentElementsProduct'
+load (includefile = 'adjacentElementsProduct.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([[3, 6, -2, -5, 7, 3]],21)
 t.test([[-1, -2]],2)

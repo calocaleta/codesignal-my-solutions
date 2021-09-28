@@ -1,7 +1,7 @@
 class Test
 	def initialize(methodname)
 		@@index = 1
-		@@methodname = methodname
+		@@methodname = methodname.split('.')[0]
 	end
 	def test(parameters, expected, index=0)
 		if index==0

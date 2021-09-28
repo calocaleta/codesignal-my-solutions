@@ -1,8 +1,7 @@
-methodname = 'shapeArea'
+load (includefile = 'shapeArea.rb')
+load ('../../test.rb')
 
-load '../../test.rb'
-load methodname + '.rb'
-t = Test.new(methodname)
+t = Test.new(includefile)
 
 t.test([2],5)
 t.test([3],13)
