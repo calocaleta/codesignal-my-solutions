@@ -23,9 +23,9 @@ Given the string, check if it is a [palindrome](../../glossary/palindrome.md).
 
   A non-empty string consisting of lowercase characters.
 
-  *Guaranteed constraints:*
+  Guaranteed constraints:
   
-  `1 ≤ inputString.length ≤ 10⁵`.
+  - `1 ≤ inputString.length ≤ 10⁵`.
 
 
 - **[output] boolean**

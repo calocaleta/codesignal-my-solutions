@@ -7,19 +7,26 @@ Given an array of integers, find the maximal absolute difference between any two
 
 ### Example
 
-For inputArray = [2, 4, 1, 0], the output should be
-arrayMaximalAdjacentDifference(inputArray) = 3.
+For `inputArray = [2, 4, 1, 0]`, the output should be
+`arrayMaximalAdjacentDifference(inputArray) = 3`.
 
 ### Input/Output
 
-[execution time limit] 4 seconds (rb)
+- **[execution time limit] 4 seconds (rb)**
 
-[input] array.integer inputArray
 
-Guaranteed constraints:
-3 ≤ inputArray.length ≤ 10,
--15 ≤ inputArray[i] ≤ 15.
+- **[input] array.integer inputArray**
 
-[output] integer
+  Guaranteed constraints:
+  - `3 ≤ inputArray.length ≤ 10`,
+  - `-15 ≤ inputArray[i] ≤ 15`.
 
-The maximal absolute difference.
+
+- **[output] integer**
+
+  The maximal absolute difference.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb):zap: to check the functionality of [**arrayMaximalAdjacentDifference.rb**](./arrayMaximalAdjacentDifference.rb):octocat:.

@@ -7,27 +7,35 @@ Given two strings, find the number of common characters between them.
 
 ### Example
 
-For s1 = "aabcc" and s2 = "adcaa", the output should be
-commonCharacterCount(s1, s2) = 3.
+For `s1 = "aabcc"` and `s2 = "adcaa"`, the output should be
+`commonCharacterCount(s1, s2) = 3`.
 
-Strings have 3 common characters - 2 "a"s and 1 "c".
+Strings have `3` common characters - `2` "a"s and `1` "c".
 
 ### Input/Output
 
-[execution time limit] 4 seconds (rb)
+- **[execution time limit] 4 seconds (rb)**
 
-[input] string s1
 
-A string consisting of lowercase English letters.
+- **[input] string s1**
 
-Guaranteed constraints:
-1 ≤ s1.length < 15.
+  A string consisting of lowercase English letters.
 
-[input] string s2
+  Guaranteed constraints:
+  - `1 ≤ s1.length < 15`.
 
-A string consisting of lowercase English letters.
 
-Guaranteed constraints:
-1 ≤ s2.length < 15.
+- **[input] string s2**
 
-[output] integer
+  A string consisting of lowercase English letters.
+
+  Guaranteed constraints:
+  - `1 ≤ s2.length < 15`.
+
+
+- **[output] integer**
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb):zap: to check the functionality of [**commonCharacterCount.rb**](./commonCharacterCount.rb):octocat:.

@@ -3,34 +3,45 @@
 | ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
 |---|---|
 
-Given a rectangular matrix of characters, add a border of asterisks(*) to it.
+Given a rectangular matrix of characters, add a border of asterisks`(*)` to it.
 
 ### Example
 
 For
 
+```
 picture = ["abc",
-"ded"]
+           "ded"]
+```
+
 the output should be
 
+```
 addBorder(picture) = ["*****",
-"*abc*",
-"*ded*",
-"*****"]
+                      "*abc*",
+                      "*ded*",
+                      "*****"]
+```
 
 ### Input/Output
 
-[execution time limit] 4 seconds (rb)
+- **[execution time limit] 4 seconds (rb)**
 
-[input] array.string picture
 
-A non-empty array of non-empty equal-length strings.
+- **[input] array.string picture**
 
-Guaranteed constraints:
-1 ≤ picture.length ≤ 100,
-1 ≤ picture[i].length ≤ 100.
+  A non-empty array of non-empty equal-length strings.
 
-[output] array.string
+  Guaranteed constraints:
+  - `1 ≤ picture.length ≤ 100`,
+  - `1 ≤ picture[i].length ≤ 100`.
 
-The same matrix of characters, framed with a border of asterisks of width 1.
 
+- **[output] array.string**
+
+  The same matrix of characters, framed with a border of asterisks of width `1`.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb):zap: to check the functionality of [**addBorder.rb**](./addBorder.rb):octocat:.

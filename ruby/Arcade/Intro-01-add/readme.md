@@ -17,14 +17,14 @@ For `param1 = 1` and `param2 = 2`, the output should be
 
 - **[input] integer param1**
 
-    Guaranteed constraints:
-`-1000 ≤ param1 ≤ 1000`.
+  Guaranteed constraints:
+  - `-1000 ≤ param1 ≤ 1000`.
 
 
 - **[input] integer param2**
 
-    Guaranteed constraints:
-  `-1000 ≤ param2 ≤ 1000`.
+  Guaranteed constraints:
+  - `-1000 ≤ param2 ≤ 1000`.
 
 
 - **[output] integer**

@@ -7,22 +7,27 @@ Given an array of strings, return another array containing all of its longest st
 
 ### Example
 
-For inputArray = ["aba", "aa", "ad", "vcd", "aba"], the output should be
-allLongestStrings(inputArray) = ["aba", "vcd", "aba"].
+For `inputArray = ["aba", "aa", "ad", "vcd", "aba"]`, the output should be
+`allLongestStrings(inputArray) = ["aba", "vcd", "aba"]`.
 
 ### Input/Output
 
-[execution time limit] 4 seconds (rb)
+- **[execution time limit] 4 seconds (rb)**
 
-[input] array.string inputArray
 
-A non-empty array.
+- **[input] array.string inputArray**
 
-Guaranteed constraints:
-1 ≤ inputArray.length ≤ 10,
-1 ≤ inputArray[i].length ≤ 10.
+  A non-empty array.
 
-[output] array.string
+  Guaranteed constraints:
+  - `1 ≤ inputArray.length ≤ 10`,
+  - `1 ≤ inputArray[i].length ≤ 10`.
 
-Array of the longest strings, stored in the same order as in the inputArray.
 
+- **[output] array.string**
+
+  Array of the longest strings, stored in the same order as in the `inputArray`.
+
+### Testing
+
+Run [**verify.rb**](./verify.rb):zap: to check the functionality of [**allLongestStrings.rb**](./allLongestStrings.rb):octocat:.

@@ -20,10 +20,12 @@ A `1`-interesting polygon is just a square with a side of length `1`. An `n`-int
 
 - **[execution time limit] 4 seconds (rb)**
 
+
 - **[input] integer n**
 
-Guaranteed constraints:
-`1 ≤ n < 10⁴`.
+  Guaranteed constraints:
+  - `1 ≤ n < 10⁴`.
+
 
 - **[output] integer**
 

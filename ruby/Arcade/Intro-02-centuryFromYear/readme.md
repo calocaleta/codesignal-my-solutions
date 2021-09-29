@@ -22,7 +22,7 @@ Given a year, return the century it is in. The first century spans from the year
   A positive integer, designating the year.
 
   Guaranteed constraints:
-  `1 ≤ year ≤ 2005`.
+  - `1 ≤ year ≤ 2005`.
 
 
 - **[output] integer**
