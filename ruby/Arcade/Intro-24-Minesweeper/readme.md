@@ -48,4 +48,4 @@ Check out the image below for better understanding:
 
 ### Testing
 
-Run [**verify.rb**](./verify.rb) :fire: to check the functionality of [**minesweeper.rb**](./minesweeper.rb):fire:.
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**minesweeper.rb**](./minesweeper.rb):octocat:.

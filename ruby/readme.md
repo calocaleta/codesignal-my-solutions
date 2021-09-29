@@ -5,7 +5,7 @@
 
 My progress:
 
-| :heavy_check_mark: = Solved | :bulb: = I have the idea, but it's didn't solve it | :hourglass: = In progress |
+| :heavy_check_mark: = Solved | :hourglass: = In progress |
 |:---:|:---:|:---:|
 
 

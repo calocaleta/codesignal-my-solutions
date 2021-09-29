@@ -1,0 +1,15 @@
+load (includefile = 'containsDuplicates.rb')
+load ('../../test.rb')
+
+t = Test.new(includefile)
+
+t.test([[1, 2, 3, 1]],true)
+t.test([[3, 1]],false)
+t.test([[1, 1, 1, 3, 3, 4, 3, 2, 4, 2]],true)
+t.test([[]],false)
+t.test([[1]],false)
+t.test([[-1200000005, -1200000005]],true)
+t.test([[0, 4, 5, 0, 3, 6]],true)
+t.test([[1, 2, 3, 4]],false)
+t.test([[0, 1, 0, -1]],true)
+t.test([[2]],false)
