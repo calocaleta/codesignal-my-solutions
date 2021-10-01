@@ -1,0 +1,15 @@
+load (includefile = 'chessBoardCellColor.rb')
+load ('../../test.rb')
+
+t = Test.new(includefile)
+
+t.test(["A1","C3"],true)
+t.test(["A1","H3"],false)
+t.test(["A1","A2"],false)
+t.test(["A1","B2"],true)
+t.test(["B3","H8"],false)
+t.test(["C3","B5"],false)
+t.test(["G5","E7"],true)
+t.test(["C8","H8"],false)
+t.test(["D2","D2"],true)
+t.test(["A2","A5"],false)

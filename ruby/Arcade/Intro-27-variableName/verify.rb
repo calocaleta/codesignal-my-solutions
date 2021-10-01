@@ -1,0 +1,15 @@
+load (includefile = 'variableName.rb')
+load ('../../test.rb')
+
+t = Test.new(includefile)
+
+t.test(["var_1__Int"],true)
+t.test(["qq-q"],false)
+t.test(["2w2"],false)
+t.test([" variable"],false)
+t.test(["va[riable0"],false)
+t.test(["variable0"],true)
+t.test(["a"],true)
+t.test(["_Aas_23"],true)
+t.test(["a a_2"],false)
+t.test(["0ss"],false)
