@@ -6,7 +6,7 @@
 My progress:
 
 | :heavy_check_mark: = Solved | :hourglass: = In progress |
-|:---:|:---:|:---:|
+|:---:|:---:|
 
 
 | # | Name | Description | Code :octocat: | Tasks | Solved | Status |
