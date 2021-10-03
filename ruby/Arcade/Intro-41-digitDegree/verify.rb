@@ -1,0 +1,15 @@
+load (includefile = 'digitDegree.rb')
+load ('../../test.rb')
+
+t = Test.new(includefile)
+
+t.test([5],0)
+t.test([100],1)
+t.test([91],2)
+t.test([99],2)
+t.test([1000000000],1)
+t.test([9],0)
+t.test([73],2)
+t.test([877],2)
+t.test([777773],3)
+t.test([304],1)
