@@ -3,3 +3,13 @@ load ('../../test.rb')
 
 t = Test.new(includefile)
 
+t.test(["prettyandsimple@example.com"],"example.com")
+t.test(["fully-qualified-domain@codesignal.com"],"codesignal.com")
+t.test(["\" \"@space.com"],"space.com")
+t.test(["someaddress@yandex.ru"],"yandex.ru")
+t.test(["\" \"@xample.org"],"xample.org")
+t.test(["\"much.more unusual\"@yahoo.com"],"yahoo.com")
+t.test(["\"very.unusual.@.unusual.com\"@usual.com"],"usual.com")
+t.test(["admin@mailserver2.ru"],"mailserver2.ru")
+t.test(["example-indeed@strange-example.com"],"strange-example.com")
+t.test(["very.common@gmail.com"],"gmail.com")

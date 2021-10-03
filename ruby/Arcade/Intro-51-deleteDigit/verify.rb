@@ -3,3 +3,13 @@ load ('../../test.rb')
 
 t = Test.new(includefile)
 
+t.test([152],52)
+t.test([1001],101)
+t.test([10],1)
+t.test([222219],22229)
+t.test([109],19)
+t.test([222250],22250)
+t.test([44435],4445)
+t.test([12],2)
+t.test([218616],28616)
+t.test([861452],86452)

@@ -3,3 +3,13 @@ load ('../../test.rb')
 
 t = Test.new(includefile)
 
+t.test(["a1", "c3"],true)
+t.test(["h1", "h3"],false)
+t.test(["a5", "c3"],true)
+t.test(["g1", "f3"],false)
+t.test(["e7", "d6"],true)
+t.test(["e7", "a3"],true)
+t.test(["e3", "a7"],true)
+t.test(["a1", "h8"],true)
+t.test(["a1", "h7"],false)
+t.test(["h1", "a8"],true)

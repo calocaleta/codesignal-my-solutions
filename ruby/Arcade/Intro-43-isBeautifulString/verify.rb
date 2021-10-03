@@ -3,3 +3,13 @@ load ('../../test.rb')
 
 t = Test.new(includefile)
 
+t.test(["bbbaacdafe"],true)
+t.test(["aabbb"],false)
+t.test(["bbc"],false)
+t.test(["bbbaa"],false)
+t.test(["abcdefghijklmnopqrstuvwxyzz"],false)
+t.test(["abcdefghijklmnopqrstuvwxyz"],true)
+t.test(["abcdefghijklmnopqrstuvwxyzqwertuiopasdfghjklxcvbnm"],true)
+t.test(["fyudhrygiuhdfeis"],false)
+t.test(["zaa"],false)
+t.test(["zyy"],false)
