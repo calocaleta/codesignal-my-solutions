@@ -1,4 +1,6 @@
-Is Beautiful String
+# Is Beautiful String
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 A string is said to be beautiful if each letter in the string appears at most as many times as the previous letter in the alphabet within the string; ie: b occurs no more times than a; c occurs no more times than b; etc. Note that letter a has no previous letter.
 
@@ -32,3 +34,8 @@ Guaranteed constraints:
 [output] boolean
 
 Return true if the string is beautiful, false otherwise.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**isBeautifulString.rb**](./isBeautifulString.rb):octocat:.

@@ -1,4 +1,6 @@
-Delete Digit
+# Delete Digit
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given some integer, find the maximal number you can obtain by deleting exactly one digit of the given number.
 
@@ -18,3 +20,8 @@ Guaranteed constraints:
 10 ≤ n ≤ 106.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**deleteDigit.rb**](./deleteDigit.rb):octocat:.

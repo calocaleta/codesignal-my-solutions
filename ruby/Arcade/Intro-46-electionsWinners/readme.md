@@ -1,4 +1,6 @@
-Elections Winners
+# Elections Winners
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Elections are in progress!
 
@@ -37,3 +39,8 @@ Guaranteed constraints:
 0 ≤ k ≤ 105.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**electionsWinners.rb**](./electionsWinners.rb):octocat:.

@@ -1,4 +1,6 @@
-Deposit Profit
+# Deposit Profit
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 You have deposited a specific amount of money into your bank account. Each year your balance increases at the same growth rate. With the assumption that you don't make any additional deposits, find out how long it would take for your balance to pass a specific threshold.
 
@@ -43,3 +45,8 @@ deposit < threshold ≤ 200.
 [output] integer
 
 The number of years it would take to hit the threshold.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**depositProfit.rb**](./depositProfit.rb):octocat:.

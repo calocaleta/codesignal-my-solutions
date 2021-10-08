@@ -1,4 +1,6 @@
-Strings Rearrangement
+# Strings Rearrangement
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given an array of equal-length strings, you'd like to know if it's possible to rearrange the order of the elements in such a way that each consecutive pair of strings differ by exactly one character. Return true if it's possible, and false if not.
 
@@ -39,3 +41,8 @@ Guaranteed constraints:
 [output] boolean
 
 Return true if the strings can be reordered in such a way that each neighbouring pair of strings differ by exactly one character (false otherwise).
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**stringsRearrangement.rb**](./stringsRearrangement.rb):octocat:.

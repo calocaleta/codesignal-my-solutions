@@ -1,5 +1,6 @@
-Sudoku
-
+# Sudoku
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 Sudoku is a number-placement puzzle. The objective is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 sub-grids that compose the grid contains all of the digits from 1 to 9.
 
 This algorithm should check if the given grid of numbers represents a correct solution to Sudoku.
@@ -54,3 +55,9 @@ grid[i].length = 9,
 
 true if the given grid represents a correct solution to Sudoku, false otherwise.
 
+
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**sudoku.rb**](./sudoku.rb):octocat:.

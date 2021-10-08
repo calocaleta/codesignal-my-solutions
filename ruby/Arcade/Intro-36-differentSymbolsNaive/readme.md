@@ -1,4 +1,6 @@
-Different Symbols Naive
+# Different Symbols Naive
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given a string, find the number of different characters in it.
 
@@ -21,3 +23,8 @@ Guaranteed constraints:
 3 ≤ s.length ≤ 1000.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**differentSymbolsNaive.rb**](./differentSymbolsNaive.rb):octocat:.

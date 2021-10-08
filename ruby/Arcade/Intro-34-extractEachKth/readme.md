@@ -1,4 +1,6 @@
-Extract Each Kth
+# Extract Each Kth
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given array of integers, remove each kth element from it.
 
@@ -25,3 +27,8 @@ Guaranteed constraints:
 [output] array.integer
 
 inputArray without elements k - 1, 2k - 1, 3k - 1 etc.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**extractEachKth.rb**](./extractEachKth.rb):octocat:.

@@ -1,4 +1,6 @@
-Message From Binary Code
+# Message From Binary Code
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 You are taking part in an Escape Room challenge designed specifically for programmers. In your efforts to find a clue, you've found a binary code written on the wall behind a vase, and realized that it must be an encrypted message. After some thought, your first guess is that each consecutive 8 bits of the code stand for the character with the corresponding extended ASCII code.
 
@@ -26,3 +28,8 @@ Guaranteed constraints:
 [output] string
 
 The decrypted message.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**messageFromBinaryCode.rb**](./messageFromBinaryCode.rb):octocat:.

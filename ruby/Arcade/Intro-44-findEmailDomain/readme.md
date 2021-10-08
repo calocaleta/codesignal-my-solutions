@@ -1,4 +1,6 @@
-Find Email Domain
+# Find Email Domain
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 An email address such as "John.Smith@example.com" is made up of a local part ("John.Smith"), an "@" symbol, then a domain part ("example.com").
 
@@ -22,3 +24,8 @@ Guaranteed constraints:
 10 ≤ address.length ≤ 50.
 
 [output] string
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**findEmailDomain.rb**](./findEmailDomain.rb):octocat:.

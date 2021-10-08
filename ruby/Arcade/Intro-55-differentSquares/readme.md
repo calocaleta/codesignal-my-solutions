@@ -1,4 +1,6 @@
-Different Squares
+# Different Squares
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given a rectangular matrix containing only digits, calculate the number of different 2 × 2 squares in it.
 
@@ -42,3 +44,8 @@ Guaranteed constraints:
 [output] integer
 
 The number of different 2 × 2 squares in matrix.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**differentSquares.rb**](./differentSquares.rb):octocat:.

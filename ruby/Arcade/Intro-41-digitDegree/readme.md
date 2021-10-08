@@ -1,4 +1,6 @@
-Digit Degree
+# Digit Degree
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Let's define digit degree of some positive integer as the number of times we need to replace this number with the sum of its digits until we get to a one digit number.
 
@@ -24,3 +26,8 @@ Guaranteed constraints:
 5 ≤ n ≤ 109.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**digitDegree.rb**](./digitDegree.rb):octocat:.

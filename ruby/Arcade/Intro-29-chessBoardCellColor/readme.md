@@ -1,4 +1,6 @@
-Chess Board Cell Color
+# Chess Board Cell Color
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given two cells on the standard chess board, determine whether they have the same color or not.
 
@@ -35,3 +37,9 @@ cell2.length = 2,
 [output] boolean
 
 true if both cells have the same color, false otherwise.
+
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**chessBoardCellColor.rb**](./chessBoardCellColor.rb):octocat:.

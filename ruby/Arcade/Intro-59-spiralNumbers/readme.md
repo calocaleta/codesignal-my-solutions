@@ -1,4 +1,6 @@
-Spiral Numbers
+# Spiral Numbers
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Construct a square matrix with a size N × N containing integers from 1 to N * N in a spiral order, starting from top-left and in clockwise direction.
 
@@ -21,3 +23,8 @@ Guaranteed constraints:
 3 ≤ n ≤ 100.
 
 [output] array.array.integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**spiralNumbers.rb**](./spiralNumbers.rb):octocat:.

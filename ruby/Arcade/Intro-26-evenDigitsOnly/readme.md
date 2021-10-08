@@ -1,4 +1,6 @@
-Even Digits Only
+# Even Digits Only
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Check if all digits of the given integer are even.
 
@@ -20,3 +22,8 @@ Guaranteed constraints:
 [output] boolean
 
 true if all digits of n are even, false otherwise.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**evenDigitsOnly.rb**](./evenDigitsOnly.rb):octocat:.

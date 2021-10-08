@@ -1,4 +1,6 @@
-Absolute Values Sum Minimization
+# Absolute Values Sum Minimization
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given a sorted array of integers a, your task is to determine which element of a is closest to all other values of a. In other words, find the element x in a, which minimizes the following sum:
 
@@ -37,3 +39,8 @@ Guaranteed constraints:
 [output] integer
 
 An integer representing the element from a that minimizes the sum of its absolute differences with all other elements.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**absoluteValuesSumMinimization.rb**](./absoluteValuesSumMinimization.rb):octocat:.

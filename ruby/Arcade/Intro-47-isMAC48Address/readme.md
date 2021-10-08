@@ -1,4 +1,6 @@
-Is MAC48 Address?
+# Is MAC48 Address?
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 A media access control address (MAC address) is a unique identifier assigned to network interfaces for communications on the physical network segment.
 
@@ -26,3 +28,8 @@ Guaranteed constraints:
 [output] boolean
 
 true if inputString corresponds to MAC-48 address naming rules, false otherwise.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**isMAC48Address.rb**](./isMAC48Address.rb):octocat:.

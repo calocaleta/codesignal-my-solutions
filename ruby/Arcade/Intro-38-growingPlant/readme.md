@@ -1,4 +1,6 @@
-Growing Plant
+# Growing Plant
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Caring for a plant can be hard work, but since you tend to it regularly, you have a plant that grows consistently. Each day, its height increases by a fixed amount represented by the integer upSpeed. But due to lack of sunlight, the plant decreases in height every night, by an amount represented by downSpeed.
 
@@ -50,3 +52,8 @@ Guaranteed constraints:
 [output] integer
 
 The number of days that it will take for the plant to reach / pass desiredHeight.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**growingPlant.rb**](./growingPlant.rb):octocat:.

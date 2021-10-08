@@ -1,4 +1,6 @@
-Digits Product
+# Digits Product
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given an integer product, find the smallest positive (i.e. greater than 0) integer the product of whose digits is equal to product. If there is no such integer, return -1 instead.
 
@@ -18,3 +20,8 @@ Guaranteed constraints:
 0 ≤ product ≤ 600.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**digitsProduct.rb**](./digitsProduct.rb):octocat:.

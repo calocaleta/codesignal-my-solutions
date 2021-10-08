@@ -1,4 +1,6 @@
-Is Digit
+# Is Digit
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Determine if the given character is a digit or not.
 
@@ -22,3 +24,8 @@ Given symbol is from ASCII table.
 [output] boolean
 
 true if symbol is a digit, false otherwise.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**isDigit.rb**](./isDigit.rb):octocat:.

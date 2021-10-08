@@ -1,4 +1,6 @@
-Longest Word
+# Longest Word
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Define a word as a sequence of consecutive English letters. Find the longest word from the given string.
 
@@ -19,3 +21,8 @@ Guaranteed constraints:
 [output] string
 
 The longest word from text. It's guaranteed that there is a unique output.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**longestWord.rb**](./longestWord.rb):octocat:.

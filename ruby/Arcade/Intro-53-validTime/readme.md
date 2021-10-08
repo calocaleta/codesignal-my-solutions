@@ -1,4 +1,6 @@
-Valid Time
+# Valid Time
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Check if the given string is a correct time representation of the 24-hour clock.
 
@@ -21,3 +23,8 @@ A string representing time in HH:MM format. It is guaranteed that the first two 
 [output] boolean
 
 true if the given representation is correct, false otherwise.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**validTime.rb**](./validTime.rb):octocat:.

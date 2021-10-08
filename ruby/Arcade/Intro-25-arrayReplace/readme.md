@@ -1,4 +1,6 @@
-Array Replace
+# Array Replace
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given an array of integers, replace all the occurrences of elemToReplace with substitutionElem.
 
@@ -28,3 +30,8 @@ Guaranteed constraints:
 0 ≤ substitutionElem ≤ 109.
 
 [output] array.integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**arrayReplace.rb**](./arrayReplace.rb):octocat:.

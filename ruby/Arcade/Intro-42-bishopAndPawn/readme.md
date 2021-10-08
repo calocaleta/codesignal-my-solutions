@@ -1,4 +1,6 @@
-Bishop and Pawn
+# Bishop and Pawn
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given the positions of a white bishop and a black pawn on the standard chess board, determine whether the bishop can capture the pawn in one move.
 
@@ -42,3 +44,8 @@ pawn.length = 2,
 [output] boolean
 
 true if the bishop can capture the pawn, false otherwise.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**bishopAndPawn.rb**](./bishopAndPawn.rb):octocat:.

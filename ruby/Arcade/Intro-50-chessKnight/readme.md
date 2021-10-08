@@ -1,4 +1,6 @@
-Chess Knight
+# Chess Knight
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given a position of a knight on the standard chessboard, find the number of different moves the knight can perform.
 
@@ -32,3 +34,8 @@ cell.length = 2,
 1 ≤ cell[1] ≤ 8.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**chessKnight.rb**](./chessKnight.rb):octocat:.

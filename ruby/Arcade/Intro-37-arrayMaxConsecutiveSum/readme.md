@@ -1,4 +1,6 @@
-Array Max Consecutive Sum
+# Array Max Consecutive Sum
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given array of integers, find the maximal possible sum of some of its k consecutive elements.
 
@@ -35,3 +37,8 @@ Guaranteed constraints:
 [output] integer
 
 The maximal possible sum.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**arrayMaxConsecutiveSum.rb**](./arrayMaxConsecutiveSum.rb):octocat:.

@@ -1,4 +1,6 @@
-Line Encoding
+# Line Encoding
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given a string, return its encoding defined as follows:
 
@@ -26,3 +28,8 @@ Guaranteed constraints:
 [output] string
 
 Encoded version of s.
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**lineEncoding.rb**](./lineEncoding.rb):octocat:.

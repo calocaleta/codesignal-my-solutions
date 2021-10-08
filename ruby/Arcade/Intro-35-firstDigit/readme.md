@@ -1,4 +1,6 @@
-First Digit
+# First Digit
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Find the leftmost digit that occurs in a given string.
 
@@ -22,3 +24,8 @@ Guaranteed constraints:
 3 ≤ inputString.length ≤ 10.
 
 [output] char
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**firstDigit.rb**](./firstDigit.rb):octocat:.

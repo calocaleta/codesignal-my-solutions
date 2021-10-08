@@ -1,4 +1,6 @@
-Longest Digits Prefix
+# Longest Digits Prefix
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 Given a string, output its longest prefix which contains only digits.
 
@@ -17,3 +19,8 @@ Guaranteed constraints:
 3 ≤ inputString.length ≤ 100.
 
 [output] string
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**longestDigitsPrefix.rb**](./longestDigitsPrefix.rb):octocat:.

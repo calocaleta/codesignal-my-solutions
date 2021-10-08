@@ -1,4 +1,6 @@
-Knapsack Light
+# Knapsack Light
+| ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
+|---|---|
 
 You found two items in a treasure chest! The first item weighs weight1 and is worth value1, and the second item weighs weight2 and is worth value2. What is the total maximum value of the items you can take with you, assuming that your max weight capacity is maxW and you can't come back for the items later?
 
@@ -51,3 +53,8 @@ Guaranteed constraints:
 1 ≤ maxW ≤ 20.
 
 [output] integer
+
+
+### Testing
+
+Run [**verify.rb**](./verify.rb) :zap: to check the functionality of [**knapsackLight.rb**](./knapsackLight.rb):octocat:.
