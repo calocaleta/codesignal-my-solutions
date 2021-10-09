@@ -2,34 +2,38 @@
 | ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
 |---|---|
 
-Given an array of integers, replace all the occurrences of elemToReplace with substitutionElem.
+Given an array of integers, replace all the occurrences of `elemToReplace` with `substitutionElem`.
 
-Example
+### Example
 
-For inputArray = [1, 2, 1], elemToReplace = 1, and substitutionElem = 3, the output should be
-arrayReplace(inputArray, elemToReplace, substitutionElem) = [3, 2, 3].
+For `inputArray = [1, 2, 1]`, `elemToReplace = 1`, and `substitutionElem = 3`, the output should be
+`arrayReplace(inputArray, elemToReplace, substitutionElem) = [3, 2, 3]`.
 
-Input/Output
+### Input/Output
 
-[execution time limit] 4 seconds (rb)
+- **[execution time limit] 4 seconds (rb)**
 
-[input] array.integer inputArray
 
-Guaranteed constraints:
-0 ≤ inputArray.length ≤ 104,
-0 ≤ inputArray[i] ≤ 109.
+- **[input] array.integer inputArray**
 
-[input] integer elemToReplace
+  Guaranteed constraints:
+  - `0 ≤ inputArray.length ≤ 10⁴`,
+  - `0 ≤ inputArray[i] ≤ 10⁹`.
 
-Guaranteed constraints:
-0 ≤ elemToReplace ≤ 109.
 
-[input] integer substitutionElem
+- **[input] integer elemToReplace**
 
-Guaranteed constraints:
-0 ≤ substitutionElem ≤ 109.
+  Guaranteed constraints:
+  - `0 ≤ elemToReplace ≤ 10⁹`.
 
-[output] array.integer
+
+- **[input] integer substitutionElem**
+
+  Guaranteed constraints:
+  - `0 ≤ substitutionElem ≤ 10⁹`.
+
+
+- **[output] array.integer**
 
 
 ### Testing
