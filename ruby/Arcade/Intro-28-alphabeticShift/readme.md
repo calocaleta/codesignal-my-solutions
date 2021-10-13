@@ -2,26 +2,28 @@
 | ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
 |---|---|
 
-Given a string, your task is to replace each of its characters by the next one in the English alphabet; i.e. replace a with b, replace b with c, etc (z would be replaced by a).
+Given a string, your task is to replace each of its characters by the next one in the English alphabet; i.e. replace `a` with `b`, replace `b` with `c`, etc (`z` would be replaced by `a`).
 
-Example
+### Example
 
-For inputString = "crazy", the output should be alphabeticShift(inputString) = "dsbaz".
+For `inputString = "crazy"`, the output should be `alphabeticShift(inputString) = "dsbaz"`.
 
-Input/Output
+### Input/Output
 
-[execution time limit] 4 seconds (rb)
+- **[execution time limit] 4 seconds (rb)**
 
-[input] string inputString
 
-A non-empty string consisting of lowercase English characters.
+- **[input] string inputString**
 
-Guaranteed constraints:
-1 ≤ inputString.length ≤ 1000.
+  A non-empty string consisting of lowercase English characters.
 
-[output] string
+  Guaranteed constraints:
+  - 1 ≤ inputString.length ≤ 1000.
 
-The resulting string after replacing each of its characters.
+
+- **[output] string**
+
+  The resulting string after replacing each of its characters.
 
 
 ### Testing
