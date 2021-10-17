@@ -38,6 +38,7 @@ You can find here my solutions of coding from [CodeSignal](https://app.codesigna
 | ![](https://app.codesignal.com/user-icons/arcade/arcade_levels_1.svg) | Commoner | Complete a level in Arcade |
 | ![](https://app.codesignal.com/user-icons/arcade/arcade_levels_3.svg) | Squire | Complete 3 levels in Arcade |
 | ![](https://app.codesignal.com/user-icons/arcade/arcade_levels_10.svg) | Knight | Complete 10 levels in Arcade |
+| ![](https://app.codesignal.com/user-icons/arcade/arcade_levels_20.svg) | Prince | Complete 20 levels in Arcade |
 | ![](https://app.codesignal.com/user-icons/arcade/arcade_worlds_1.svg) | Conqueror | Complete a world in Arcade |
 | ![](https://app.codesignal.com/user-icons/company_challenge/company_challenges_1.svg) | White Collar Worker | Solve one company challenge |
 | ![](https://app.codesignal.com/user-icons/company_challenge/company_challenges_5.svg) | Conspicuous Consumer | Solve 5 company challenges |
