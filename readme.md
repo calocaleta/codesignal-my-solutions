@@ -26,6 +26,7 @@ You can find here my solutions of coding from [CodeSignal](https://app.codesigna
 | ![](https://app.codesignal.com/user-icons/activity/visit_3.svg) | The Casual | Visit CodeSignal 3 days in a row |
 | ![](https://app.codesignal.com/user-icons/activity/visit_5.svg) | The Regular | Visit CodeSignal 5 days in a row |
 | ![](https://app.codesignal.com/user-icons/activity/visit_7.svg) | The Dedicated | Visit CodeSignal 7 days in a row |
+| ![](https://app.codesignal.com/user-icons/activity/visit_30.svg) | The CodeSignaler | Visit CodeSignal 30 days in a row |
 | ![](https://app.codesignal.com/user-icons/solved/solved_1.svg) | First Steps | Solve your first task |
 | ![](https://app.codesignal.com/user-icons/solved/solved_5.svg) | Learning to Crawl | Solve 5 tasks |
 | ![](https://app.codesignal.com/user-icons/solved/solved_20.svg) | Gotta Walk before you Run | Solve 20 tasks |
