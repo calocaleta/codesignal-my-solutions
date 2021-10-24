@@ -2,27 +2,31 @@
 | ![](https://app.codesignal.com/user-icons/languages/rb.svg) | ***Ruby Solutions*** |
 |---|---|
 
-Construct a square matrix with a size N × N containing integers from 1 to N * N in a spiral order, starting from top-left and in clockwise direction.
+Construct a square matrix with a size `N × N` containing integers from `1` to `N * N` in a spiral order, starting from top-left and in clockwise direction.
 
-Example
+### Example
 
-For n = 3, the output should be
+For `n = 3`, the output should be
 
-spiralNumbers(n) = [[1, 2, 3],
+`spiralNumbers(n) = [[1, 2, 3],
 [8, 9, 4],
 [7, 6, 5]]
-Input/Output
+`
 
-[execution time limit] 4 seconds (rb)
+### Input/Output
 
-[input] integer n
+- **[execution time limit] 4 seconds (rb)**
 
-Matrix size, a positive integer.
 
-Guaranteed constraints:
-3 ≤ n ≤ 100.
+- **[input] integer n**
 
-[output] array.array.integer
+  Matrix size, a positive integer.
+
+  Guaranteed constraints:
+  - `3 ≤ n ≤ 100`.
+
+
+- **[output] array.array.integer**
 
 
 ### Testing
